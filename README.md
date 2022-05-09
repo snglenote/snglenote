@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=35&vCenter=true&lines=Hello+there!)](https://git.io/typing-svg) :sparkles:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=35&vCenter=true&lines=Hello+there!+%E2%9C%A8)](https://git.io/typing-svg)
