@@ -8,5 +8,5 @@
 </p>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snglenote&label=Profile%20views&color=grey&style=plastic" alt="snglenote" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snglenote&label=Profile%20views&color=808080&style=plastic" alt="snglenote" /> </p>
 
