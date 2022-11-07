@@ -5,7 +5,7 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snglenote&show_icons=true&theme=dark&langs_count=5" alt="snglenote" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snglenote&show_icons=true&theme=dark" alt="snglenote" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snglenote&show_icons=true&theme=dark&count_private=true" alt="snglenote" /></p>
 
 </p>
 <br/>
