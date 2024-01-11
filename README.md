@@ -4,6 +4,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.snglenote.vercel.app/api/top-langs?username=snglenote&theme=transparent" alt="snglenote" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.snglenote.vercel.app/api?username=snglenote&show_icons=true&theme=transparent&count_private=true" alt="snglenote" /></p>&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snglenote&show_icons=true&theme=transparent" alt="snglenote" /></p>&nbsp;
 
-<p align="left"><img src="https://count.getloli.com/get/@snglenote?theme=asoul"></p></body></html>
+<p align="left"><img src="https://count.getloli.com/get/@snglenote?theme=asoul"></p>
